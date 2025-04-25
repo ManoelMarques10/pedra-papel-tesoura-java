@@ -18,7 +18,7 @@ O jogador escolhe entre **Pedra**, **Papel** ou **Tesoura**, e o computador faz 
 ## ▶️ Como executar
 
 1. Copie o código que está na pasta **Jogo**.
-2. Cole em um terminal que rode Python (VS Code, Thonny, IDLE, etc).
+2. Cole em um terminal que rode Java (VS Code, Netbeans, IntelliJ, etc).
 3. Execute o código para jogar.
 
 ---
